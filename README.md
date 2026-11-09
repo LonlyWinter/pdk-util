@@ -9,7 +9,7 @@
 
 ### 1) Given Struct `LibLef`/`TechLef`
 
-Example: [`src/lef_test.rs`](src/lef/test.rs)
+Example: [`src/lef/test.rs`](src/lef/test.rs)
 
 Tests with: [google/skywater-pdk](https://github.com/google/skywater-pdk)
 
