@@ -1,6 +1,6 @@
 # PDK Util
 
-[![Latest version](https://img.shields.io/crates/v/pdf-util.svg)](https://crates.io/crates/pdf-util)
+[![Latest version](https://img.shields.io/crates/v/pdk-util.svg)](https://crates.io/crates/pdk-util)
 [![License](https://img.shields.io/badge/license-GPLv3-blue?style=flat)](https://github.com/LonlyWinter/pdf-util/blob/master/COPYING)
 
 
