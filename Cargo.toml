@@ -1,0 +1,22 @@
+[package]
+name = "pdk-util"
+version = "0.1.0"
+edition = "2024"
+authors = ["winter <winter_lonely@foxmail.com>"]
+license = "GPL-3.0-or-later"
+repository = "https://github.com/LonlyWinter/pdk-util"
+description = "PDK Util in Rust"
+keywords = ["PDK", "LEF"]
+
+[lib]
+crate-type = ["lib"]
+
+[dependencies]
+
+
+[features]
+default = ["lef"]
+
+lef_macro = []
+lef = ["lef_macro"]
+
